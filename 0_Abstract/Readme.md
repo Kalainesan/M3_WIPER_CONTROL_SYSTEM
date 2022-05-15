@@ -3,15 +3,11 @@
 ## INTRODUCTION ##
 
 Wiper is an essential component that used to wipe raindrops or any water from the vehicle’s windscreen. The previous system
-used to activate the wiper manually and the process of pulling up the wiper is difficult to be handled. Thus, this system is
-proposed to solve these problems. The objectives of this project are to upgrade the older cars system by providing automatic
+used to activate the wiper manually and the process of pulling up the wiper is difficult to be handled. In this, we propose an unmanned wiper which senses rain and starts automatically and switches off automatically when the rain
+stops. By using this, there will be no need for physical intervention of human to control the speed of the wiper The objectives of this project are to upgrade the older cars system by providing automatic
 wiping system, to improve the system by using sensor with actuator and to design a basic program that will fully operate with
 the system. The concept of this proposed wiper system is similar with other existing conventional wiper. In spite of removing
-water from windscreen, this system also will be upgraded to an automatic control system by using a STM32f407 microcontroller and water sensor.
-and climate country are facing the problems regards to the wiper material.
-
-
-Today’s car wipers are manual systems that work on the principle of manual switching. So here we propose an automatic wiper system that automatically switches 'ON' on detecting rain and stops when rain stops. Our project brings forward this system to automate the wiper system having no need for manual intervention. For this purpose we use rain sensor along with microcontroller to drive the wiper motor. Our system uses rain sensor to detect rain, this signal is then processed by microcontroller to take the desired action. The rain sensor works on the principle of using water for completing its circuit, so when rain falls on it it’s circuit gets completed and sends out a signal to the microcontroller. The microcontroller now processes this data and controls the motor.This system is equally useful for Aircrafts and smaller version of this can be used by motor bikers in their helmets so that they can drive easily in rains.
+water from windscreen, this system also will be upgraded to an automatic control system by using a STM32f407 microcontroller and rain sensor. Our system uses rain sensor to detect rain, this signal is then processed by microcontroller to take the desired action. The rain sensor works on the principle of using water for completing its circuit, so when rain falls on it it’s circuit gets completed and sends out a signal to the microcontroller. The microcontroller now processes this data and controls the motor.
 
 ## FEATURES ##
 
