@@ -19,3 +19,11 @@
 | H_03               | To monitor temperature and Rain conditions | Sensor values are detected | 4 LED lights are opearted accordingly | 4 LED lights are opearted accordingly | PASSED|
 |L_04               | To get displayed in LCD | LCD is connected to STM32 Microcontroller | Displays the wiper movenment conditions | Displays the wiper movenment conditions | PASSED|
 | H_05               | To make wiper movenments | Servomotor is connetced to STM32 Micrrocontroller | Wiper is moved accordingly | Wiper is moved accordingly |PASSED|
+
+
+# OUTPUT #
+
+![output_1](https://user-images.githubusercontent.com/102134305/168486226-ea2814c5-2c15-4ce4-a50a-1f6a341bdde9.jpg)
+
+
+![output_2](https://user-images.githubusercontent.com/102134305/168486228-2bde9feb-cd3f-4aa1-91cd-32318cce2d03.jpg)
