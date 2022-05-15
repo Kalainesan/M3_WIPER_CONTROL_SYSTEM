@@ -18,8 +18,8 @@ water from windscreen, this system also will be upgraded to an automatic control
 
 The windshield wiper control module drives the wiper motor based on the the current state of the wiper switch, mostly to support the intermittent wipe feature. This is also  known  as the wiper delay module.A mechanism can handle one function or multiple of functions. In this case, our project is about windshield wiper mechanism which is intended to wipe a  maximum area of a windshield. 
 - Some applications are as follows:-
-- Ø I improved visibility of car windshield during rain.
-- The wiper has been controlled by a water level sensor which regulate t.
+- Improved visibility of car windshield during rain.
+- The wiper has been controlled by a water level sensor which regulate it.
 - A cycle being the forward and return movement of the windscreen wiper.
 - After tuning the switch on the wiper should start and clear the screen the wiper motor through sensing the level of water or rain.
 
